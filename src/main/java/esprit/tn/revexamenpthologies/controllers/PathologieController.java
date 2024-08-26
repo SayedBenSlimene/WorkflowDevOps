@@ -15,8 +15,7 @@ public class PathologieController {
 
      @Autowired
      IPathologieService iPathologieService;
-     //saszeczerfzerf
-     //saszeczerfzerf
+
 
      @PostMapping("/AjoutPathologie")
      public void AjouterPathologie(@RequestBody Pathologie pathologie){
