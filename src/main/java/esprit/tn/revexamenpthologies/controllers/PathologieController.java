@@ -16,6 +16,9 @@ public class PathologieController {
      @Autowired
      IPathologieService iPathologieService;
 //fdsvdfvdfvfdvdfv
+//fdsvdfvdfvfdvdfv
+//fdsvdfvdfvfdvdfv
+//fdsvdfvdfvfdvdfv
 
      @PostMapping("/AjoutPathologie")
      public void AjouterPathologie(@RequestBody Pathologie pathologie){
