@@ -6,7 +6,7 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
+///dfvbfdbdfbdfbdfbdfb
 @Tag(name = "pathologie Management")
 @AllArgsConstructor
 @RequestMapping("/pathologie")
