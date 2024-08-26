@@ -11,7 +11,8 @@ import org.springframework.web.bind.annotation.*;
 
 ///dfvbfdbdfbdfbdfbdfb
 ///dfvbfdbdfbdfbdfbdfb
-
+///dfvbfdbdfbdfbdfbdfb
+///dfvbfdbdfbdfbdfbdfb
 @Tag(name = "pathologie Management")
 @AllArgsConstructor
 @RequestMapping("/pathologie")
