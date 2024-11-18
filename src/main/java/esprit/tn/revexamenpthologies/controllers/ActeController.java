@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 @AllArgsConstructor
 @RequestMapping("/acte")
 @RestController
-public class ActeController {
+public class ActeControlhler {
 //test1234dfseee
      //saszeczerfzerf
 //saszeczerfzerf
